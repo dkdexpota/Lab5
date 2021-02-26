@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AstartesCategory"},{"p":"<Unnamed>","l":"Chapter"},{"p":"<Unnamed>","l":"Coordinates"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"SpaceMarine"},{"p":"<Unnamed>","l":"Treatment"},{"p":"<Unnamed>","l":"Weapon"}];updateSearchResults();

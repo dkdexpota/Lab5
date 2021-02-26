@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "name": "regrg",
+    "coordinates": {
+      "x": 2,
+      "y": 13.0
+    },
+    "creationDate": "2021-02-23T16:05:11.434088800+03:00[Europe/Moscow]",
+    "health": 41,
+    "category": "HELIX",
+    "chapter": {
+      "name": "dw",
+      "marinesCount": 42
+    }
+  },
+  {
+    "id": 2,
+    "name": "name2",
+    "coordinates": {
+      "x": 456,
+      "y": 456.456
+    },
+    "creationDate": "2021-02-15T17:31:42.281Z[Etc/UTC]",
+    "health": 555,
+    "achievements": "bfgb",
+    "category": "ASSAULT",
+    "weaponType": "GRAV_GUN",
+    "chapter": {
+      "name": "namech2",
+      "marinesCount": 439
+    }
+  },
+  {
+    "id": 1,
+    "name": "name1",
+    "coordinates": {
+      "x": 123,
+      "y": 123.123
+    },
+    "creationDate": "2021-02-15T17:30:49.541Z[Etc/UTC]",
+    "health": 1894,
+    "achievements": "kfeopfkoe",
+    "category": "HELIX",
+    "weaponType": "COMBI_PLASMA_GUN",
+    "chapter": {
+      "name": "namech1",
+      "marinesCount": 200
+    }
+  },
+  {
+    "id": 4,
+    "name": "giror",
+    "coordinates": {
+      "x": 4,
+      "y": 213.0
+    },
+    "creationDate": "2021-02-23T16:07:09.775094600+03:00[Europe/Moscow]",
+    "health": 5,
+    "category": "HELIX"
+  }
+]
